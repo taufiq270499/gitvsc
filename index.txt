@@ -1,1 +1,5 @@
-tes tes tes
+Resolusi pogramming 2021
+
+- Git
+- Javascript
+- OOP
