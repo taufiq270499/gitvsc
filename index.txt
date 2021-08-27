@@ -4,3 +4,4 @@ Resolusi pogramming 2021
 - Javascript
 - OOP
 - HTML
+- CSS
