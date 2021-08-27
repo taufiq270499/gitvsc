@@ -3,3 +3,4 @@ Resolusi pogramming 2021
 - Git
 - Javascript
 - OOP
+- HTML
